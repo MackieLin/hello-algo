@@ -234,10 +234,10 @@ comments: true
 === "LinkedListDeque"
     ![linkedlist_deque](deque.assets/linkedlist_deque.png)
 
-=== "pushLast()"
+=== "offerLast()"
     ![linkedlist_deque_push_last](deque.assets/linkedlist_deque_push_last.png)
 
-=== "pushFirst()"
+=== "offerFirst()"
     ![linkedlist_deque_push_first](deque.assets/linkedlist_deque_push_first.png)
 
 === "pollLast()"
